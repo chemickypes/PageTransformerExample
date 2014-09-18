@@ -5,4 +5,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ipsum erat, imperdiet sit amet lectus at, congue dictum nibh. Fusce gravida convallis metus in laoreet. Pellentesque auctor mattis nunc, a finibus massa venenatis vel. Vestibulum facilisis ut tortor a ullamcorper. Sed lacinia purus ex, et maximus risus aliquet ac. Phasellus quis arcu facilisis diam lacinia malesuada in vel tortor. Cras congue turpis tincidunt nunc lobortis tempus. Pellentesque eleifend pulvinar auctor. Maecenas vel dictum nulla, sed pulvinar diam. Phasellus lobortis nulla augue, id malesuada sem consectetur ac. Aliquam eu ornare ex, ut viverra felis. Fusce tempus sapien tellus, id elementum sem facilisis eu. Etiam mollis efficitur velit, vel pulvinar neque posuere porta.
+
+Proin a ligula eu orci aliquet sollicitudin non nec tortor. Praesent aliquam sem eu lacus mattis, sit amet varius erat tempus. Sed posuere ligula quis nisi scelerisque semper. Donec auctor hendrerit sodales. Morbi egestas risus eu ipsum tincidunt vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor mattis eros at sagittis. Vestibulum vestibulum pulvinar quam. Aliquam sit amet gravida tortor. Vivamus non mauris sit amet tellus porttitor eleifend non vitae eros. Fusce sollicitudin bibendum quam, et commodo risus gravida sed. In auctor orci ex, in sagittis orci interdum a.</string>
+
 </resources>
