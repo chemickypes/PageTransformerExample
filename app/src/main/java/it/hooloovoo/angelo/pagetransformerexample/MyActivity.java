@@ -37,6 +37,15 @@ public class MyActivity extends Activity {
         mPager = (ViewPager) findViewById(R.id.pager);
         mPagerAdapter = new ScreenSlidePagerAdapter(getFragmentManager());
         mPager.setAdapter(mPagerAdapter);
+        //mPager.setPageTransformer(true,new DepthPageTransformer());
+
+        mPager.setPadding(60,0,60,0);
+        mPager.setClipToPadding(false);
+        mPager.setPageMargin(30);
+
+        /*tilePager.setPadding(defaultGap, 0, defaultGap, 0);
+tilePager.setClipToPadding(false);
+tilePager.setPageMargin(halfGap);*/
     }
 
     @Override

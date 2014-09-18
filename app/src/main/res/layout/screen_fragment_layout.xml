@@ -2,6 +2,7 @@
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@android:color/holo_purple"
     android:layout_height="match_parent">
 
     <ScrollView
@@ -15,6 +16,6 @@
         android:text="@string/lorem_ipsum"
         android:id="@+id/textView"
         android:padding="10dp"
-        android:textColor="@android:color/holo_red_dark" />
+        android:textColor="@android:color/darker_gray" />
     </ScrollView>
 </LinearLayout>
